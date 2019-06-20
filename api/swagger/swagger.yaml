@@ -58,3 +58,15 @@ definitions:
     properties:
       message:
         type: string
+  HelloWorldResponse2:
+    required:
+      - message
+    properties:
+      message:
+        type: string
+  HelloWorldResponse3:
+    required:
+      - message
+    properties:
+      message:
+        type: string
